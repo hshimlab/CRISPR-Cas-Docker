@@ -64,7 +64,7 @@ CRISPR-Cas-Docker: a web-based in-silico docking of crRNA to Cas protein with ma
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the GPL-3.0 License.
 
 ## Acknowledgements
 
